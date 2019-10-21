@@ -1,0 +1,95 @@
+{
+	"name": "lzwme-eye-care",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"categories": [
+		"Themes"
+	],
+	"version": "1.0.0",
+	"publisher": "lzwme",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lzwme/eye-care-vscode-theme"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Light Theme",
+		"Night Owl",
+		"Night Theme",
+		"Eye Care",
+		"Eye Good",
+		"Accessible Theme"
+	],
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"galleryBanner": {
+		"color": "#061526",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"icon": "lzwme-128x128.png",
+	"contributes": {
+		"themes": [
+			{
+				"id": "eye-care-dark",
+				"label": "eye-care-dark(default dark)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/eye-care.json"
+			},
+			{
+				"id": "eye-care-light-yellow",
+				"label": "eye-care-light-yellow(default light)",
+				"uiTheme": "vs",
+				"path": "./themes/eye-care-yellow-light.json"
+			},
+			{
+				"id": "eye-care-ayu-owl-dark",
+				"label": "eye-care-ayu-owl-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/eye-care-ayu-owl.json"
+			},
+			{
+				"id": "eye-care-owl",
+				"label": "eye-care-owl",
+				"uiTheme": "vs",
+				"path": "./themes/eye-care-owl.json"
+			},
+			{
+				"id": "eye-care-owl-noitalic",
+				"label": "eye-care-owl-noitalic",
+				"uiTheme": "vs",
+				"path": "./themes/eye-care-owl-noitalic.json"
+			},
+			{
+				"id": "eye-care-owl-light",
+				"label": "eye-care-owl-light",
+				"uiTheme": "vs",
+				"path": "./themes/eye-care-owl-light.json"
+			},
+			{
+				"id": "eye-care-owl-noitalic-light",
+				"label": "eye-care-owl-noitalic-light",
+				"uiTheme": "vs",
+				"path": "./themes/eye-care-owl-noitalic-light.json"
+			},
+			{
+				"id": "eye-care-high-contrast",
+				"label": "eye-care-high-contrast",
+				"uiTheme": "hc-black",
+				"path": "./themes/eye-care-hc_black.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "eye-care-minimal",
+				"label": "eye-care-minimal",
+				"path": "./fileicons/vs_minimal-icon-theme.json"
+			}
+		]
+	}
+}
