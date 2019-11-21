@@ -48,21 +48,15 @@
 				"path": "./themes/eye-care-yellow-light.json"
 			},
 			{
-				"id": "eye-care-ayu-owl-dark",
-				"label": "eye-care-ayu-owl-dark",
+				"id": "eye-care-owl-dark",
+				"label": "eye-care-owl-dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/eye-care-ayu-owl.json"
-			},
-			{
-				"id": "eye-care-owl",
-				"label": "eye-care-owl",
-				"uiTheme": "vs",
 				"path": "./themes/eye-care-owl.json"
 			},
 			{
-				"id": "eye-care-owl-noitalic",
-				"label": "eye-care-owl-noitalic",
-				"uiTheme": "vs",
+				"id": "eye-care-owl-noitalic-dark",
+				"label": "eye-care-owl-noitalic-dark",
+				"uiTheme": "vs-dark",
 				"path": "./themes/eye-care-owl-noitalic.json"
 			},
 			{
@@ -76,6 +70,18 @@
 				"label": "eye-care-owl-noitalic-light",
 				"uiTheme": "vs",
 				"path": "./themes/eye-care-owl-noitalic-light.json"
+			},
+			{
+				"id": "eye-care-ayu-owl-dark",
+				"label": "eye-care-ayu-owl-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/eye-care-ayu-owl.json"
+			},
+			{
+				"id": "eye-care-red-dark",
+				"label": "eye-care-red-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/eye-care-red-dark.json"
 			},
 			{
 				"id": "eye-care-high-contrast",

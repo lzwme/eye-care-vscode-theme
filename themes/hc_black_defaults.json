@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "High Contrast Default Colors",
+	"name": "Eye Care High Contrast Default Colors",
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#FFFFFF",
@@ -105,9 +105,7 @@
 				"entity.other.attribute-name.parent-selector.css",
 				"entity.other.attribute-name.pseudo-class.css",
 				"entity.other.attribute-name.pseudo-element.css",
-
 				"source.css.less entity.other.attribute-name.id",
-
 				"entity.other.attribute-name.attribute.scss",
 				"entity.other.attribute-name.scss"
 			],
