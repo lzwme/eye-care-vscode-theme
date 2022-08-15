@@ -3,7 +3,7 @@
 .AppleDouble
 .LSOverride
 
-# Icon must end with two 
+# Icon must end with two
 Icon
 # Thumbnails
 ._*
@@ -76,3 +76,9 @@ jspm_packages
 
 # Nuxt generate
 dist
+
+package-lock.json
+yarn.lock
+pnpm-lock.yml
+release
+
